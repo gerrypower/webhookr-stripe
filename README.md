@@ -1,7 +1,7 @@
 # Webhookr::Stripe
 [![Build Status](https://travis-ci.org/gerrypower/webhookr-stripe.png?branch=master)](https://travis-ci.org/gerrypower/webhookr-stripe)
 [![Dependency Status](https://gemnasium.com/gerrypower/webhookr-stripe.png)](https://gemnasium.com/gerrypower/webhookr-stripe)
-[![Code Climate](https://codeclimate.com/repos/51e8487b56b10253cd012512/badges/07b88d092c3cbc9a3873/gpa.png)](https://codeclimate.com/repos/51e8487b56b10253cd012512/feed)
+[![Code Climate](https://codeclimate.com/repos/51e8b329f3ea00509b021908/badges/afc761788ad82d3a9852/gpa.png)](https://codeclimate.com/repos/51e8b329f3ea00509b021908/feed)
 [![Coverage Status](https://coveralls.io/repos/gerrypower/webhookr-stripe/badge.png)](https://coveralls.io/r/gerrypower/webhookr-stripe)
 
 This gem is a plugin for [Webhookr](https://github.com/zoocasa/webhookr) that enables
