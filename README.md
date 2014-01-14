@@ -235,6 +235,7 @@ webhookr-stripe works with Rails 3.1, 3.2 and 4.0, and has been tested on the fo
 implementations:
 
 * 2.0.0
+* 2.1.0
 
 Pending:
 
